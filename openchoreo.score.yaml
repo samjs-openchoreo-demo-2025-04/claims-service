@@ -6,5 +6,5 @@ apis:
     basePath: /reading-list
     schemaFile: docs/openapi.yaml
     visibility: 
-      public: false
-      organization: true
+      public: true
+      organization: false
